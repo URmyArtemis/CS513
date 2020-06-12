@@ -1,5 +1,5 @@
-#Name: Zhenhang Ji
-#CWID: 10445682
+#Name: 
+#CWID: 
 remove(list = ls())
 #Procedures:
 #1.Load csv file
