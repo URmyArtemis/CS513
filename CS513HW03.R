@@ -1,5 +1,5 @@
-#Name: Zhenhang Ji
-#CWID: 10445682
+#Name: 
+#CWID: 
 rm(list = ls())
 #Procedures:
 installed.packages()
